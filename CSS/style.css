@@ -2,6 +2,9 @@
    GHOST ANIMAE - Clean Cinematic Landing Page
    ============================================ */
 
+body{
+   background: #000;
+}
 
 /* RESET */
 * {
